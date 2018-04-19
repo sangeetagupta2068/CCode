@@ -44,4 +44,6 @@ int main(int argc, char** vargs)
     {
         fprintf(stdout,"Specify the filename as an arguement!");
     }
+    
+    return EXIT_SUCCESS;
 }
