@@ -29,4 +29,6 @@ int main(int argc, char** vargs)
     {
       fprintf(stdout,"Specify the word as a command line arguement!");
     }
+    
+    return EXIT_SUCCESS;
 }
